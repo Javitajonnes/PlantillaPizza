@@ -14,7 +14,9 @@ img{
 }
 h1,h2,h3,h4,h5{
     margin: 0;
+	font-family: "Bad Script", cursive; 
 }
+
 .container{
     width: 100%;
     margin: auto;
@@ -29,6 +31,8 @@ h1,h2,h3,h4,h5{
     width: 100%;
 }
 
+
+
 /*----------------Estilos Header------------------*/
 
 
@@ -39,7 +43,7 @@ h1,h2,h3,h4,h5{
     font-size: 1.9em;
     color: #de423a;
     padding: 10px;
-    font-family: 'Sacramento', cursive;
+    font-family: "Bad Script", cursive;
         
 }
 .main-header__contactInfo__phone{
@@ -184,7 +188,7 @@ h1,h2,h3,h4,h5{
 .main__title{
 	margin: 15px 0;
 	font-size: 2.8em;
-	font-family: 'Sacramento',cursive;
+	font-family: "Bad Script", cursive;
 	
 }
 .column__title{
@@ -206,7 +210,7 @@ h1,h2,h3,h4,h5{
 	
 }
 .group__title{
-	font-family:'Sacramento',cursive;
+	font-family: "Bad Script", cursive;
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.8em;
